@@ -1,0 +1,30 @@
+{
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "600",
+    "editor.fontFamily": "Fira Code",
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "solid",
+    "explorer.confirmDelete": false,
+    "explorer.compactFolders": false,
+    "editor.renderControlCharacters": true,
+    "eslint.runtime": "",
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "workbench.startupEditor": "none",
+    "window.titleBarStyle": "custom",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.decorations.colors": true,
+    "git.confirmSync": false,
+    "terminal.integrated.env.osx": {
+      "FIG_NEW_SESSION": "1"
+    },
+    "editor.accessibilitySupport": "off",
+    "editor.inlineSuggest.enabled": true,
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter",
+      "editor.formatOnType": true
+    },
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Gruvbox Dark Soft",
+  }
+  
